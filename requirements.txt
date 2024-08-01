@@ -1,0 +1,5 @@
+matplotlib==3.5.2
+numpy==1.21.5 # Don't change version!
+colorlog==6.6.0
+graphviz==0.19.2
+python-dotenv==0.20.0
